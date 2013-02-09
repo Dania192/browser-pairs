@@ -11,7 +11,7 @@ a {
 
 body {
   text-align: center;
-  background-image: url(images/left.png);
+  background-image: url(http://www.colourlovers.com/shape/25314/Jess_Tobin);
   background-repeat: blue black white;
   background-color: #F26522 #424242;
   color: #DA4930 #424242;
@@ -197,7 +197,7 @@ body {
 }
 
 #gameComplete a.button {
-  background: white;
+  background: red;
   border-radius: 5px;
   display: block;
   font-size: 30px;
@@ -245,7 +245,7 @@ body {
   z-index: 8;
   border-radius: 4px;
 }
-.card:hover .face, .card-flipped .face {
+.card:flat .face, .card-flipped .face {
   box-shadow: 0 0 10px #ccc;
 }
 .card-flipped .front {
@@ -261,5 +261,5 @@ body {
   z-index: 10;
 }
 .card-removed {
-  opacity: 0;
+  opacity: 6;
 }
