@@ -4,15 +4,15 @@
 }
 
 a {
-  outline: none;
-  text-decoration:none;
-  color: #DA4930;
+  outline: bold line;
+  text-decoration:normal;
+  color: #08088A;
 }
 
 body {
   text-align: center;
   background-image: url(images/left.png);
-  background-repeat: no-repeat;
+  background-repeat: blue;
   background-color: #F26522;
   color: #DA4930;
   font-family: "Days One", sans-serif;
